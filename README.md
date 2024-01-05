@@ -1,5 +1,4 @@
-# Aspiring Cryptographer / Data Scientist / Product Manager
-
+# Aspiring Crybersecurity Engineer
 ### Education
 Master in Mathematics of Information and Cryptography
 
