@@ -1,9 +1,7 @@
 # Aspiring Cryptographer / Data Scientist / Product Manager
 
 ### Education
-Master in Mathematics
-Master 1 in Artificial Intelligence and Data Science
-Master in Information Mathematics and Cryptography
+Master in Mathematics of Information and Cryptography
 
 ### Experiences
 
