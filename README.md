@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Python, SQL, Sage, 
+#### Technical Skills: Python, SQL, Sage, Jupiter Notebook
 
 ## Education
 - Master, Mathematics of Information | The University of Rennes (_Since Sept 2023_)
